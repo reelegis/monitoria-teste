@@ -6,9 +6,11 @@ import numpy as np
 import plotly.express as px
 
 
-st.title("Jogos vencidos na VNL")
+st.title("Jogos vencidos na VNL 🏐")
 
 st.text("Versão 0.1")
+
+
 
 st.markdown("Entre maio e julho, o **Brasil** jogou com 10 seleções mundiais! Acompanhe quem venceu!")
 
